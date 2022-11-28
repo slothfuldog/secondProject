@@ -105,7 +105,7 @@ body{
     align-items: center;
     padding-bottom: 200px;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./Images/package.jpeg");
-    background-repeat:round;
+    background-size:100%;
     color: white;
     text-shadow: 1px 1px 0 black;
 }
